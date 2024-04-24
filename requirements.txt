@@ -1,0 +1,5 @@
+# Python version
+python_version>=3.6,<4
+
+# Django web framework
+Django>=3.2,<4
