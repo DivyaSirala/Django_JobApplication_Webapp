@@ -1,2 +1,4 @@
 # Django_JobApplication_Webapp
-Django, Python, HTML, CSS, JS, SQLlite
+
+User can fill the Job Application and Admin can manage the job applications using Django SQL Lite Database
+
